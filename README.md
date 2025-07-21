@@ -1,5 +1,5 @@
 # Assignment3
-Task 1: Calculate Factorial Using a Function<br>
+#Task 1: Calculate Factorial Using a Function<br>
 
 Problem Summary:<br>
 
@@ -19,7 +19,7 @@ res = factorial(num)
 print("factorial of",num," is : ",res)
 <br><br>
 
-Task 2: Using the Math Module for Calculations<br>
+#Task 2: Using the Math Module for Calculations<br>
 
 Problem Summary:<br>
 
@@ -34,10 +34,10 @@ num = input("Enter a number :")
 num = int(num)
 print(num)
 
-# Square root of no.
+Square root of no.
 print("Square root : ",sqrt(num))
 
-# Logarithm of no.
+ Logarithm of no.
 print("Log : ",log(num))
 
 # Sine no. in radians
